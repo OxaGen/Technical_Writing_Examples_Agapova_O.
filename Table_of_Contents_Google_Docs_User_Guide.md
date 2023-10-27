@@ -28,7 +28,7 @@ Here is a step-by-step guide on how to create a table of contents:*
 + Modify the font, size, boldness, or any other desired formatting elements using the text formatting options in the top menu bar. Make it look exactly how you want your header style to appear.
 ![image](https://drive.google.com/uc?export=view&id=1iBCpipTt2KTnk3JOf-BIBFXyi_R1MxS4)
 
-##### Step 5.Save your style 
+##### Step 5. Save your style 
 + Right-click on the highlighted header and select the 'Format options' option.
 + Select "Update Heading 1 *<or any other Header option>* to match". 
  
