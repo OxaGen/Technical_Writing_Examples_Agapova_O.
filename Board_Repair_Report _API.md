@@ -12,7 +12,7 @@ To use the Board Repair Verification Report API, obtain an API key by registerin
 ### Request Methods:
 All endpoints support HTTP POST requests.
 ### Request Parameters:
-##### **/verify-board** endpoint:
+**/verify-board** endpoint:
   + `board_serial` *(required)*: The serial number of the repaired board.
   + `api_key` *(required)*: Your API key for authentication.
   + `test_results` *(required)*: JSON object containing the test results.
@@ -30,9 +30,9 @@ POST /verify-board
 }
 ````
 **/report-status**, 
-##### /download-report endpoints:
-+ report_id *(required)*: The unique identifier of the generated report.
-+ api_key *(required)*: Your API key for authentication.
+**/download-report** endpoints:
++ `report_id` *(required)*: The unique identifier of the generated report.
++ `api_key` *(required)*: Your API key for authentication.
 ##### Sample Request JSON:
 ````
 POST /report-status
@@ -45,7 +45,7 @@ POST /report-status
 + The API returns data in JSON format.
 + Successful responses will have a 200 status code.
 + Error responses include detailed error messages for troubleshooting.
-#### Sample Response:
+##### Sample Response:
 ````
 {
   "report_id": 987,
