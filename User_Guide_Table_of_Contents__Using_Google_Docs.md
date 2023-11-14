@@ -31,7 +31,6 @@ Here is a step-by-step guide on how to create a table of contents:*
 ### Step 5. Save your style 
 + Right-click on the highlighted header and select the 'Format options' option.
 + Select "Update Heading 1 *<or any other Header option>* to match". 
- 
 ![image](https://drive.google.com/uc?export=view&id=1w0moIhOzRJ0odDZB308DEgqTC6dU3xF6)
 
 ### Step 6: Apply a style to the next header
@@ -43,8 +42,9 @@ Here is a step-by-step guide on how to create a table of contents:*
 ### Step 7: Insert the Table of Contents 
 + Insert the Table of Contents: In the top menu, go to the "Insert" section and select "Table of Contents." Google Docs will automatically generate a table of contents based on the headings you've highlighted.
 ![image](https://drive.google.com/export=view&id=1MGp-3UZrmQ7HXvzt8EJmq1grHtHVrpSA)
-
 + Customize the Table of Contents: After inserting the table of contents, you can customize its appearance. Click on the table of contents, and you'll be presented with several options, including choosing a style (how page numbers will appear, etc.).
 ![image](https://drive.google.com/uc?export=view&id=1sGiRgOR3RsnUVyt_g2aHXKXXY2gcqoA-)
 + Update the Table of Contents: If you make changes to the text or structure of your document that affect the table of contents, you can update it by selecting it and clicking "Update" in the table of contents menu. The table of contents will be automatically updated to reflect your changes.
 ![image](https://drive.google.com/uc?export=view&id=1MGp-3UZrmQ7HXvzt8EJmq1grHtHVrpSA)
+
+**This user guide equips users with a straightforward method for creating and customizing a table of contents in Google Docs, enhancing document navigation and readability.**
