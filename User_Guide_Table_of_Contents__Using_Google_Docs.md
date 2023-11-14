@@ -1,15 +1,15 @@
 # Table of Contents using Google Docs
-*How to create the table of Contents using styles*
+![logo](https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg)  
+```Build 1.2023.39200```   
+```2023-10-04```  
 
-![N|Solid](https://upload.wikimedia.org/wikipedia/commons/0/01/Google_Docs_logo_%282014-2020%29.svg)
+#### *How to create the Table of Contents using styles*  
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-*Creating a table of contents in Google Docs makes the document more convenient for navigation and reading. 
-Here is a step-by-step guide on how to create a table of contents:*
+Creating a table of contents in Google Docs makes the document more convenient for navigation and reading.   
+Here is a step-by-step guide on how to create a table of contents:
 
 ### Step 1. Prepare Your Document
-+  Open your Google Docs document for which you want to create customized headers. Ensure that your document has the headings or sections you wish to include in the table of contents.
++  Open the Google Docs document for which you want to create customized headers. Ensure that your document has the headings or sections you wish to include in the table of contents.
     + If your document has these headings, proceed to Step 4.
     + If it does not, move on to Step 2.
 
