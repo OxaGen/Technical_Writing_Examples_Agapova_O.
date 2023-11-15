@@ -10,7 +10,8 @@ Hello! My name is Oxana, and this is my technical writing portfolio on GitHub. H
 + [Release Notes](https://github.com/OxaGen/Writing_Examples/blob/main/Release_Notes_Sample.md): A document that describes the latest enhancements in the application for mountain accommodation rentals.
   
 ## Работы на русском языке / Samples in the Russian Language 
-+ [Руководство оператора](https://github.com/OxaGen/Writing_Examples/blob/main/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20(%D0%A0%D0%A3%D0%A1)_Operator's%20Manual%20(RUS).md) - образец документа, разработанного в соответствии со стандартом ГОСТ 19.505-79. 
++ [Руководство оператора. Аннотация](https://github.com/OxaGen/Writing_Examples/blob/main/Operator_Manual_Annotation.pdf) - образец аннотации для "Руководства оператора", разработанного в соответствии со стандартом ГОСТ 19.505-79.
++ [Руководство оператора. Выполнение программы](https://github.com/OxaGen/Writing_Examples/blob/main/Operator_Manual_Execution.pdf) - образец раздела "Выполнение программы" для "Руководства оператора", разработанного в соответствии со стандартом ГОСТ 19.505-79.
 + [Описание обновлений](https://github.com/OxaGen/Writing_Examples/blob/main/Release_Notes_Sample_RUS.md) - пример описания сведений об обновлении версии приложения, предназначенного для бронирования ночлега в горах.
 
 #### I hope that my portfolio gives you an insight into my competencies and working style in the field of technical writing. Feel free to ask any questions and discuss potential collaborations. 
