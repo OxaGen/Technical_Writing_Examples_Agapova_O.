@@ -1,26 +1,21 @@
-# Rise Shelter: Your Night at New Heights
-##### Discover a world of unparalleled adventures with Rise Shelter, the perfect app designed to elevate trekking experiences to new heights. Whether conquering mountain peaks or traversing high-altitude terrain, Rise Shelter proves to be a faithful companion for trekkers worldwide, ensuring a safe, comfortable, and unforgettable night under the stars. The shelters are organized by residents, offering the possibility to enjoy a delicious dinner and warm-up.
+# Rise Shelter: Ночлег на новой высоте
+##### Откройте для себя мир непревзойденных горных пейзажей с Rise Shelter - идеальным приложением для любителей хайкинга. С помощью нескольких кликов Rise Shelter обеспечивает безопасный и комфортный ночлег под звездами для треккеров по всему миру. Приюты организуют местные жители, в гостях у которых можно насладиться вкусным ужином, согреться на высоте до 5500 метров и переночевать в любой сезон. 
 
-These release notes provide information that will be useful for both landlords and trekkers. This includes the introduction of a new payment option, enhanced facility selection features, and improved communication between users of our application. Details are provided below.
+Описание обновлений для приложения Rise Shelter включает в себя сведения об внесенных изменениях, которые будут интересны как арендодателям, так и туристам. Версия приложения 5.1.2 поддерживает новый способ оплаты аренды, позволяет владельцам приютов указывать больше преимуществ для жилья, а также значительно улучшает коммуникацию между арендодателями и туристами. Подробная информация представлена ниже.
 
-## Release Notes: Version 5.1.2
+## Описание обновлений. Версия 5.1.2
 ##### Date: 15/10/2023
 
-### Expectations
-Support for HTTP 1.0 will be discontinued for all API endpoints on December 31, 2023. If you are still using HTTP 1.0, please switch to a newer version such as HTTP 1.1 or HTTP 2.
+### Ожидаемые изменения
+Поддержка HTTP 1.0 будет прекращена для всех endpoints API 31 декабря 2023 года. Если вы по-прежнему используете HTTP 1.0, пожалуйста, перейдите на более новую версию, например HTTP 1.1 или HTTP 2.
 
-### New Features:
+### Актуальные изменения:
++ **Добавлен способ оплаты через PayPal**. Теперь транзакции можно производить с помощью PayPal, что делает процесс оплаты аренды проще и удобнее для пользователей Rise Shelter из разных стран.
++ **Расширены возможности для описания жилья**. Теперь арендодатели могут указывать наличие кухни для туристов, обогревателя в помещении и т.п., а также характеристики видов из окна, чтобы подчеркнуть преимущества своего жилья.
++ **Улучшена коммуникация между арендодателями и туристами**. Владельцы недвижимости и туристы могут беспрепятственно общаться с помощью нашего внутреннего мессенджера. Сообщения сохраняются при потере соединения и остаются доступными при повторном подключении, обеспечивая непрерывную связь между абонентами.
 
-+ **Payment via PayPal for Guests and Landlords:** Securely process transactions with ease using PayPal, making the rental of mountain retreats simpler and more convenient than ever.
-+ **Facility Pointing for Landlords:** Expanded the list of facilities, allowing property owners to specify the presence of a kitchen for trekkers, indicate the presence of a room heater, and highlight scenic views. Pinpoint and showcase amenities, landmarks, or other offerings to make the listing stand out.
-+ **Enhanced Landlord-Trekker Communication:**
-   - **Inner Messenger Upgrade:** Property owners and trekkers can seamlessly communicate through our improved inner messenger.
-   - **Message Persistence:** Messages will be saved upon the loss of connection and available upon reconnection, ensuring continuous communication between subscribers.
+### Технические изменения
+- **Улучшена производительность.** Повышена скорость работы приложения для модуля арендодателей, что создает надежную и стабильную платформу для размещения информации о приютах в горах.
+- **Исправлены ошибки.** Устранены ошибки интерфейса для бронирования, о которых сообщало наше сообщество ранее.
 
-### General Improvements:
-
-- **Performance Enhancements:** Overall improvements to enhance application speed and responsiveness, providing a smoother experience for both owners and trekkers.
-
-- **Bug Fixes:** Addressed various bugs and issues reported by our community to ensure a more reliable and stable platform.
-
-In conclusion, Rise Shelter Version 5.1.2 brings a heightened experience for both landlords and trekkers with new features like PayPal payments, improved facility selection, and enhanced communication tools.
+В целом, версия 5.1.2 Rise Shelter предоставляет удобства и для арендодателей, и для треккеров, благодаря таким новым функциям, как платежи PayPal, расширенные характеристики жилья и улучшенные средства коммуникации.
