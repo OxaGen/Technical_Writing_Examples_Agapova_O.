@@ -18,8 +18,8 @@ Here is a step-by-step guide:
 ![image1](https://drive.google.com/uc?export=view&id=1QSUNu7GGf4BxIN0b_4huAuSqDEGF6Ifw)
 
 ### Step 3: Access the 'Paragraph Styles' Menu
-+ In the top menu bar, click on 'Format'. A drop-down menu will appear.
-+ In the 'Format' menu, go to 'Paragraph styles'. Another menu will appear to the side.
++ In the top menu bar, click on "Format." A drop-down menu will appear.
++ In the 'Format' menu, go to "Paragraph styles." Another menu will appear to the side.
 + Select the heading style that suits your needs. Typically, these are headings of levels 1, 2, and 3 (e.g., Heading 1, Heading 2, and Heading 3).
 ![image](https://drive.google.com/uc?export=view&id=1T_x9C5K8U86tWtd_317iV3df-196PfxQ)
 
@@ -41,7 +41,7 @@ Here is a step-by-step guide:
 
 ### Step 7: Insert the Table of Contents 
 + Select the place where you want to insert the table of contents.
-+ In the top menu, go to the 'Insert' section and select the 'Table of contents' option. Google Docs will automatically generate a table of contents based on the headings you've highlighted.
++ In the top menu, go to the "Insert" section and select the "Table of contents" option. Google Docs will automatically generate a table of contents based on the headings you've highlighted.
 + Choose the style that is suitable for your needs.
 ![image6](https://drive.google.com/uc?export=view&id=1m-8zBJESXAMDVJg9KAwVbnTTgtAoLPUj)
 
@@ -50,7 +50,7 @@ Here is a step-by-step guide:
 ![image7](https://drive.google.com/uc?export=view&id=1CgeKnLgBv3YYf8vYirWsb0AaX68YNf4g)
 
 ### Step 8:  Update the Table of Contents 
-+ Select the 'Update the table of contents' option by right-clicking on the created table of contents, if you make changes to the text or structure of your document. The table of contents will be automatically updated to reflect your changes.
++ Select the 'Update the table of contents' option by right-clicking on the created table of contents if you make changes to the text or structure of your document. The table of contents will be automatically updated to reflect your changes.
 ![image](https://drive.google.com/uc?export=view&id=1MGp-3UZrmQ7HXvzt8EJmq1grHtHVrpSA)
 
 **This user guide equips users with a straightforward method for creating and customizing a table of contents in Google Docs, enhancing document navigation and readability.**
