@@ -1,5 +1,5 @@
 # Rise Shelter: Your Night at New Heights
-##### Discover a world of unparalleled adventures with Rise Shelter, the perfect app designed to elevate trekking experiences to new heights. Whether conquering mountain peaks or traversing high-altitude terrain, Rise Shelter is a faithful companion for trekkers worldwide, ensuring a safe, comfortable, and unforgettable night under the stars. The shelters are organized by residents, offering the possibility to enjoy a delicious dinner and warm-up.
+##### Discover a world of unparalleled adventures with Rise Shelter, the perfect app designed to elevate trekking experiences to new heights. Whether conquering mountain peaks or traversing high-altitude terrain, Rise Shelter is a faithful companion for trekkers worldwide, ensuring a safe, comfortable, and unforgettable night under the stars. The shelters, organized by residents, provide the opportunity to enjoy a delightful dinner and a warm overnight stay at altitudes of up to 5500 meters.
 
 These release notes contain information beneficial for both landlords and trekkers. The release introduces a new payment option, improved facility selection features, and enhanced communication between our application users. Details are provided below.
 
