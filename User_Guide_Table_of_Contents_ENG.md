@@ -19,9 +19,9 @@ Here is a step-by-step guide:
 
 ### Step 3: Access the 'Paragraph Styles' Menu
 + Click on the 'Format' section in the top menu bar. A drop-down menu appears.
-+ Go to the 'Paragraph styles' section in the 'Format' menu. The next menu appears to the side.
++ Go to the 'Paragraph styles' section in the 'Format' menu. The side menu appears.
 + Select the heading style that suits your needs. Typically, these are headings of levels 1, 2, and 3 (e.g., Heading 1, Heading 2, and Heading 3).  
-![image2](https://drive.google.com/uc?export=view&id=1nFpE1Ro57q1vVdMMAWojYXlC1mOsXbhT)
+![image2](https://drive.google.com/uc?export=view&id=13USdMnDwcO0ow4I4ajQDwSRzLFBjwas2)
 
 ### Step 4: Customize the Header
 + Highlight the text you want to format as a header.
