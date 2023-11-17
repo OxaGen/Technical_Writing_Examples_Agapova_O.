@@ -10,7 +10,7 @@ To use the Board Repair Verification Report API, obtain an API key by registerin
   + `/report-status`: Check the status of a generated report.
   + `/download-report`: Download a generated report in PDF format.
 ### Request Methods:
-All endpoints support HTTP POST requests.
+Endpoints support HTTP GET, POST, PUT, and DELETE requests.
 ### Request Parameters:
 **/verify-board** endpoint:
   + `board_serial` *(required)*: The serial number of the repaired board.
@@ -63,7 +63,40 @@ POST /report-status
   }
 }
 ````
+### Other possible requests: 
++ **Get a Report (GET):**
+   - **Endpoint:** `/reports/{report_id}`
+   - **Description:** Retrieves information about a specific report by its identifier.
+   - **Request Parameters:**
+     - `report_id` (number): Identifier of the report.
+
++ **List of Reports (GET):**
+   - **Endpoint:** `/reports`
+   - **Description:** Retrieves a list of all board check reports.
+
++ **Update a Report (PUT):**
+   - **Endpoint:** `/reports/{report_id}`
+   - **Description:** Updates information about an existing report.
+   - **Request Parameters:**
+     - `report_id` (number): Identifier of the report.
+   - **Example Request Body to update the result of Test 2:**
+     ```json
+     {
+       "test_results": {
+         "test2": true
+       }
+     }
+     ```
+
++ **Delete a Report (DELETE):**
+   - **Endpoint:** `/reports/{report_id}`
+   - **Description:** Deletes a report by its identifier.
+   - **Request Parameters:**
+     - `report_id` (number): Identifier of the report.
+
+
 ### Error Handling:
 If an error occurs, the API returns an error response with a corresponding HTTP status code and an error message.
 ### Conclusion:
 The Board Repair Verification Report API simplifies the verification process for repaired boards by automating report generation, helping businesses ensure the quality and reliability of their repaired electronic components.
+
