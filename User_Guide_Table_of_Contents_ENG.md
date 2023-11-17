@@ -30,8 +30,8 @@ Here is a step-by-step guide:
 
 ### Step 5: Save the style 
 + Right-click on the highlighted header and select the 'Format options' option.
-+ Select 'Update *<Heading 1 or any other Header option>* to match'.   
-![image4](https://drive.google.com/uc?export=view&id=1PkM4phKU6H3SGgnzwUN9tjsvAkE3vspL)
++ Select the 'Update Heading 1 <*or any other header level*> to match' option.   
+![image4](https://drive.google.com/uc?export=view&id=1FqDCbUB-CIOmtm3AlMrLrVTa4SGEdzSJ)
 
 ### Step 6: Apply the Style to the Next Header
 + Highlight the next header.
@@ -53,4 +53,4 @@ Here is a step-by-step guide:
 + Select the 'Update the table of contents' option by right-clicking on the created table of contents if you make changes to the text or structure of your document. The table of contents is automatically updated to reflect the changes.  
 ![image8](https://drive.google.com/uc?export=view&id=1LWzjVYlVf1ZGwxuk-fscG5N0lyidzz-L)
 
-**This user guide equips users with a straightforward method for creating and customizing a table of contents in Google Docs, enhancing document navigation and readability.**
+**I hope this user guide equips you with a straightforward method for creating and customizing a table of contents in Google Docs, enhancing document navigation and readability. Your feedback is valuable, so feel free to share any thoughts or suggestions you may have. Happy document creation!**
