@@ -5,7 +5,7 @@ Hello! My name is Oxana, and this is my technical writing portfolio on GitHub. H
 Здравствуйте! Меня зовут Оксана, и я рада представить вашему вниманию моё портфолио технического писателя на GitHub. Здесь собраны примеры документов, отражающих мой опыт и навыки в области технического письма. В этом портфолио вы можете найти:
 
 ## Samples in the English Language / Примеры работ на английском языке
-+ [User Guide](https://github.com/OxaGen/Writing_Examples/blob/main/User_Guide_Table_of_Contents__Using_Google_Docs.md): А manual made for a wide audience on "How to Create a Table of Contents Using Google Docs".
++ [User Guide](https://github.com/OxaGen/Writing_Examples/blob/main/User_Guide_Table_of_Contents_ENG.md): А manual made for a wide audience on "How to Create a Table of Contents Using Google Docs".
 + [API Documentation Sample](https://github.com/OxaGen/Writing_Examples/blob/main/API_Documentation_Sample_Board_Repair_Report.md): A model that helps circuit engineers create reports about board testing after repair.
 + [Release Notes](https://github.com/OxaGen/Writing_Examples/blob/main/Release_Notes_Sample.md): A document that describes the latest enhancements in the application for mountain accommodation rentals.
   
