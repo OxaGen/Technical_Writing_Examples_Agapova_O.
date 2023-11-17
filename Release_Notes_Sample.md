@@ -11,10 +11,10 @@ Support for HTTP 1.0 sunsets for all API endpoints on December 31, 2023. If you 
 
 ### New Features:
 + **Payment via PayPal for Guests and Landlords:** Securely process transactions with ease using PayPal, making the rental of mountain retreats simpler and more convenient than ever.
-+ **Facility Pointing for Landlords:** Expanded the list of facilities, allowing property owners to specify the presence of a kitchen for trekkers, indicate the presence of a room heater, and highlight scenic views. Pinpoint and showcase amenities, landmarks, or other offerings to make the listing stand out.
++ **Facility Pointing for Landlords:** Expanded the list of facilities, allowing property owners to inform about a kitchen for trekkers, a room heater, and highlight scenic views. Pinpoint and showcase amenities, landmarks, etc. to make the offer stand out.
 + **Enhanced Landlord-Trekker Communication:**
    - **Inner Messenger Upgrade:** Property owners and trekkers can seamlessly communicate through our improved inner messenger.
-   - **Message Persistence:** Messages will be saved upon the loss of connection and available upon reconnection, ensuring continuous communication between subscribers.
+   - **Message Persistence:** Messages are now saved upon the loss of connection and available upon reconnection, ensuring continuous communication between subscribers.
 
 ### General Improvements:
 - **Performance Enhancements:** Overall improvements to enhance application speed and responsiveness, providing a smoother experience for both owners and trekkers.
