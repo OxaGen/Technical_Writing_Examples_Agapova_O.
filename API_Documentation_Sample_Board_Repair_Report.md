@@ -2,7 +2,7 @@
 ### Introduction:
 The Board Repair Verification Report API allows users to automate the process of creating detailed reports on the operational status of boards after repair. This API simplifies the post-repair verification process, making it more efficient and accurate.
 ### Base URL example:
-https://api.boardrepairapp.com
+https://api.boardrepairapp.com#
 ### Authentication:
 To use the Board Repair Verification Report API, obtain an API key by registering on our developer portal.
 ### Endpoints:
