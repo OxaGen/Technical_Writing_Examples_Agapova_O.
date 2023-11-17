@@ -10,7 +10,7 @@ Hello! My name is Oxana, and this is my technical writing portfolio on GitHub. H
 + [Release Notes](https://github.com/OxaGen/Writing_Examples/blob/main/Release_Notes_Sample.md): A document that describes the latest enhancements in the application for mountain accommodation rentals.
   
 ## Примеры работ на русском языке / Samples in the Russian Language 
-+ [Руководство оператора. Аннотация](https://github.com/OxaGen/Writing_Examples/blob/main/Operator_Manual_Annotation.pdf) — аннотация для «Руководства оператора», разработанного в соответствии со стандартом ГОСТ 19.505-79.
++ [Руководство оператора. Аннотация](https://github.com/OxaGen/Writing_Examples/blob/main/Operator_Manual_Annotation_RUS.pdf) — аннотация для «Руководства оператора», разработанного в соответствии со стандартом ГОСТ 19.505-79.
 + [Руководство оператора. Выполнение программы](https://github.com/OxaGen/Writing_Examples/blob/main/Operator_Manual_Execution.pdf) — фрагмент раздела «Выполнение программы» для «Руководства оператора», разработанного в соответствии со стандартом ГОСТ 19.505-79.
 + [Описание обновлений](https://github.com/OxaGen/Writing_Examples/blob/main/Release_Notes_Sample_RUS.md) — пример описания изменений версии приложения, предназначенного для бронирования ночлега в горах.
 
