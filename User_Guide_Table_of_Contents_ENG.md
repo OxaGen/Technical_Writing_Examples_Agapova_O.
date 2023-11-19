@@ -43,7 +43,7 @@ Here is a step-by-step guide:
 + Select the place where you want to insert the table of contents.
 + Go to the 'Insert' section in the top menu, and select the 'Table of contents' option. Google Docs automatically generates a table of contents based on the highlighted headings.
 + Choose the style that suits your needs.  
-![image6](https://drive.google.com/uc?export=view&id=1m-8zBJESXAMDVJg9KAwVbnTTgtAoLPUj)
+![image6](https://drive.google.com/uc?export=view&id=1DMx547sQFQXBVdTfOLJ4ZKJ6vnD6g39B)
 
 ### Step 8: Customize the Table of Contents 
 + Click on the table of contents. This presents several options, including choosing a style (how page numbers are located, etc.).  
